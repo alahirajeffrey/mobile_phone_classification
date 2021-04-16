@@ -33,7 +33,7 @@ The objective of this project is to build a model that can predict the price ran
 ## info
 The first notebook contains the baseline model using the logistic regression algorithm which had an accuracy score of about 95.6 percent despite minimal preprocessing being carried out
 
-The second notebook contains code for preprocessing the data a little bit more than the first notebook and training using a decision tree classifier which actually gave a slightly worse accuracy score of approximately 85 percent 
+The second notebook contains code for preprocessing the data a little bit more than the first notebook and training using a decision tree classifier which actually gave a slightly worse accuracy score of approximately 85 percent which did not increase significantly after hyperparameter optimization 
 
 ## conclusion
 The baseline model which had an accuracy of 95.6 percent would be selected and deployed using streamlit and heroku  
