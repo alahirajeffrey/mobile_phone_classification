@@ -28,7 +28,7 @@ He does not know how to estimate price of mobiles his company creates. In this c
 - price_range: This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
 ## objective
-The objective of this project is to build a  model capable of predicting price range based on data that has been collected
+The objective of this project is to build a model that can predict the price range of phones based on data collected
 
 ## info
 The first notebook contains the baseline model using the logistic regression algorithm which had an accuracy score of about 95.6 percent despite minimal preprocessing being carried out
